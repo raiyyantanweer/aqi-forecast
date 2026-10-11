@@ -1,0 +1,8 @@
+Days_ahead,Chosen_model,RMSE,Baseline_RMSE,R2,Category_Acc,Improvement_%
+1,Random Forest,17.463,20.934,0.59,0.832,16.6
+2,Linear Regression,25.767,26.564,0.095,0.721,3.0
+3,Random Forest,30.948,28.417,-0.301,0.679,-8.9
+4,Random Forest,30.007,29.985,-0.218,0.682,-0.1
+5,Random Forest,33.649,31.011,-0.567,0.685,-8.5
+6,Linear Regression,29.327,30.8,-0.196,0.656,4.8
+7,Linear Regression,30.688,32.755,-0.305,0.668,6.3

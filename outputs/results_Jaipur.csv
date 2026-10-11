@@ -1,0 +1,29 @@
+Horizon_days,Model,Chosen,RMSE,MAE,R2,Category_Acc
+1,Persistence baseline,False,20.934,14.132,0.411,0.823
+1,Linear Regression,False,18.72,14.138,0.529,0.85
+1,Random Forest,True,17.463,12.199,0.59,0.832
+1,XGBoost,False,18.019,12.961,0.564,0.859
+2,Persistence baseline,False,26.564,19.128,0.038,0.735
+2,Linear Regression,True,25.767,20.131,0.095,0.721
+2,Random Forest,False,29.415,22.737,-0.179,0.68
+2,XGBoost,False,31.66,25.138,-0.366,0.662
+3,Persistence baseline,False,28.417,21.046,-0.097,0.711
+3,Linear Regression,False,27.416,21.145,-0.021,0.716
+3,Random Forest,True,30.948,24.013,-0.301,0.679
+3,XGBoost,False,33.979,26.881,-0.569,0.642
+4,Persistence baseline,False,29.985,22.313,-0.216,0.659
+4,Linear Regression,False,27.938,21.821,-0.056,0.691
+4,Random Forest,True,30.007,23.353,-0.218,0.682
+4,XGBoost,False,31.804,25.468,-0.368,0.65
+5,Persistence baseline,False,31.011,23.5,-0.331,0.653
+5,Linear Regression,False,28.385,22.635,-0.115,0.671
+5,Random Forest,True,33.649,26.431,-0.567,0.685
+5,XGBoost,False,40.361,30.085,-1.254,0.625
+6,Persistence baseline,False,30.8,24.121,-0.319,0.66
+6,Linear Regression,True,29.327,23.65,-0.196,0.656
+6,Random Forest,False,35.355,28.186,-0.739,0.651
+6,XGBoost,False,45.473,34.857,-1.876,0.586
+7,Persistence baseline,False,32.755,25.439,-0.486,0.645
+7,Linear Regression,True,30.688,25.04,-0.305,0.668
+7,Random Forest,False,37.718,30.05,-0.971,0.645
+7,XGBoost,False,46.269,37.903,-1.965,0.575

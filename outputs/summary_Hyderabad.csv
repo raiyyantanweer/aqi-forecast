@@ -1,0 +1,8 @@
+Days_ahead,Chosen_model,RMSE,Baseline_RMSE,R2,Category_Acc,Improvement_%
+1,Random Forest,11.959,14.792,0.887,0.874,19.2
+2,Random Forest,20.668,22.556,0.661,0.76,8.4
+3,Random Forest,24.948,27.094,0.504,0.708,7.9
+4,Random Forest,26.71,29.935,0.43,0.659,10.8
+5,Random Forest,28.281,31.466,0.361,0.636,10.1
+6,Random Forest,28.408,32.404,0.355,0.629,12.3
+7,XGBoost,28.326,33.255,0.359,0.598,14.8

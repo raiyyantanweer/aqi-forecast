@@ -1,0 +1,5 @@
+,RMSE,MAE,R2,Category_Acc
+Random Forest,30.281,21.913,0.907,0.738
+XGBoost,32.398,23.475,0.894,0.709
+Linear Regression,34.042,26.54,0.883,0.694
+Persistence baseline,40.236,28.029,0.836,0.72

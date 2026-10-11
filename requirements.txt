@@ -1,0 +1,9 @@
+joblib==1.6.0
+kagglehub==1.0.2
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+seaborn==0.13.2
+streamlit==1.65.0
+xgboost==3.4.1
